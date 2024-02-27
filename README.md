@@ -1,1 +1,1 @@
-# EuroSAT-2024-Using-Transfer-Learning-VGG16
+# Land Use and Cover change detection Using-Transfer-Learning-VGG16
